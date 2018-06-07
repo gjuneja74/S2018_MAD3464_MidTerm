@@ -9,10 +9,10 @@ package c0738093_midterm_mad3464;
  *
  * @author macstudent
  */
-public class BinarytoDecimal {
+public class MostFrequent {
     
-    public void BinarytoDecimal(String z)
+    String a = "Apple";
+    public void MostFrequent()
     {
-    int decimal=Integer.parseInt(z,2);
-    System.out.print(decimal);
-}};
+    
+}

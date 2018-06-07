@@ -20,7 +20,10 @@ public class C0738093_MidTerm_MAD3464 {
     
     
     Initials s1 = new Initials();
-    s1.initials("Happy New Year");
-    }
+    s1.initials("Hey I am Gaurav");
     
-};
+    
+    BinarytoDecimal z1=new BinarytoDecimal();
+    z1.BinarytoDecimal("I am fine");
+    
+}};
