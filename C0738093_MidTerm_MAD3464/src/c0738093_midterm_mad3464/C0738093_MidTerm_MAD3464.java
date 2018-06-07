@@ -17,6 +17,10 @@ public class C0738093_MidTerm_MAD3464 {
     public static void main(String[] args) {
         LambtonStringTools lst = new LambtonStringTools();
     lst.reverse();
+    
+    
+    Initials s1 = new Initials();
+    s1.initials("Happy New Year");
     }
     
 };
