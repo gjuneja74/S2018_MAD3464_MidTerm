@@ -11,8 +11,8 @@ package c0738093_midterm_mad3464;
  */
 public class BinarytoDecimal {
     
-    public void BinarytoDecimal(String z)
+    public void BinarytoDecimal(String z1)
     {
-    int decimal=Integer.parseInt(z,2);
-    System.out.print(decimal);
+    int decimal=Integer.parseInt(z1,2);
+    System.out.println(decimal);
 }};

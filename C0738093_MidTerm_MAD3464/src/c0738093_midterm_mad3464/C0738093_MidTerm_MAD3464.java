@@ -26,4 +26,12 @@ public class C0738093_MidTerm_MAD3464 {
     BinarytoDecimal z1=new BinarytoDecimal();
     z1.BinarytoDecimal("I am fine");
     
+    MostFrequent m1=new MostFrequent();
+        m1.MostFrequent();
+        
+        
+   
+    
+
+    
 }};
